@@ -1,0 +1,1 @@
+{"cookie_name":"portal_session","cookie_samesite":"off","cookie_domain":"$YOUROpenshiftDomain$","secret":"$YourPassword$","cookie_secure":false,"storage":"kong"}
